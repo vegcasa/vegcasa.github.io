@@ -37,4 +37,4 @@
     - Contato;
     - News (Blog, Receitas)
     - Rodapé
-    Todas as Seções estarão Detalhadas em tarefas no arquivo README.md.
+    Todas as Seções estarão Detalhadas em tarefas no arquivo README.md e quando estiverem finalizadas, serão detalhadas aqui neste documento.
