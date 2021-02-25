@@ -10,8 +10,8 @@ Criação do site VEGCASA Oficial!
 -[x] Criar o diario de bordo (Documentação dos Processos do Projeto para Consultas);
 
 ## Iniciar Desenvolvimento
--[ ] Análise do Template para montar orientações de desenvolvimento;
--[ ] Ordenar a analise em seções e criar cronograma de atividades;
+-[x] Análise do Template para montar orientações de desenvolvimento;
+-[x] Ordenar a analise em seções e criar cronograma de atividades;
 -[ ] Detalhar as propriedades da Identidade Visual ja criada;
 
 ### HEADER E NAVBAR
