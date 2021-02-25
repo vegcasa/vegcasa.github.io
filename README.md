@@ -1,4 +1,4 @@
-# vegcasa.github.io
+# ![VEGCASA - vegcasa.github.io](http://vegcasa.github.io)
 Criação do site VEGCASA Oficial!
 
 ## Configuração Inicial Básica
