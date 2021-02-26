@@ -14,6 +14,9 @@ Criação do site VEGCASA Oficial!
 -[x] Ordenar a analise em seções e criar cronograma de atividades;
 -[ ] Detalhar as propriedades da Identidade Visual ja criada;
 
+## instalação Bootstrap Framework
+-[x] instalação da estrutura de página
+
 ### HEADER E NAVBAR
 -[ ] Navbar Trasnparente com logotipo e links a direita
 -[ ] Navbar terá botão menu Hamburgue e seta de retorno
