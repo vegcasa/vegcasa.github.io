@@ -18,12 +18,12 @@ Criação do site VEGCASA Oficial!
 -[x] instalação da estrutura de página
 
 ### HEADER E NAVBAR
--[ ] Navbar Trasnparente com logotipo e links a direita
+-[x] Navbar Trasnparente com logotipo e links a direita
 -[ ] Navbar terá botão menu Hamburgue e seta de retorno
 -[ ] sidebar a esquerda com estilo OFF CANVAS
--[ ] Header será um slider de imagens e textos referenciados;
--[ ] Terão rotação de transição suave e os textos serão exibidos em etapas;
--[ ] Header será FullScreen
+-[x] Header será um slider de imagens e textos referenciados;
+-[x] Terão rotação de transição suave e os textos serão exibidos em etapas;
+-[x] Header será FullScreen
 
 ### PÁGINA DE OFERTA DE PRODUTOS
 -[ ] Umka página com 3 produtos ou mais, como ofertas especiais para venda
