@@ -34,13 +34,7 @@ button .navbar-light .navbar-toggler,
     color: tomato;
 }
 
-/* Carousel estilos */
-/* .carousel-item {
-    height: 100vh;
-    min-height: 300px;
-    background: no-repeat center center scroll;
-    background-size: cover;
-} */
+/** CAROUSEL **/
 .carousel-caption {
     margin-bottom: 5rem;
 }
@@ -54,4 +48,27 @@ button .navbar-light .navbar-toggler,
 
 #carrosel .carousel-inner, #carrosel .carousel-item {
     height: 100vh;
+}
+
+#carrosel .carousel-item .carousel-caption {
+    width: 35%;
+    top: 45%;
+    bottom: none;
+    padding: 0;
+    margin: 0 0 10% 0;
+}
+
+#carrosel .carousel-item .carousel-caption h5 {
+    font-size: 2em;
+    font-weight: bold;
+    font-style: italic;
+    color: tomato;
+}
+
+#carrosel .carousel-item .carousel-caption p {
+    font-size: 1.5rem;
+}
+
+#carrosel .carousel-indicators {
+    width: 35%;
 }
