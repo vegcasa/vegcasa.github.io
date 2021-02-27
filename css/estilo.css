@@ -1,4 +1,11 @@
 
+.title {
+    font-weight: 800;
+    font-size: 2em;
+    margin: 1rem 0;
+    text-align: center;
+}
+
 .logo-nav {
     font-family: 'Dancing Script', cursive;
     font-weight: 900;
@@ -96,4 +103,36 @@ button .navbar-light .navbar-toggler,
     background: tomato;
     font-size: 3rem;
     font-weight: 800;
+}
+
+/** GALERIA **/
+#menu {
+    height: 100vh;
+    display: block;
+    background-image: url('./../img/bg-menu.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 1rem;
+}
+
+#menu .title {
+    color: #FFF;
+}
+
+#menu .nav-pills .nav-item {
+    margin: 0 1rem;
+    border: 2px solid white;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+#menu .nav-pills .nav-item .nav-link {
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 20px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: tomato;
 }
