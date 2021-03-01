@@ -1,4 +1,9 @@
 
+body {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+}
+
+
 .title {
     font-weight: 800;
     font-size: 2em;
@@ -18,6 +23,10 @@
     color: #FFF;
 }
 
+/* .navbar {
+    font-family: 'Changa One', cursive;
+} */
+
 button .navbar-light .navbar-toggler,
 .navbar-light .navbar-toggler-icon{
     color:tomato;
@@ -27,7 +36,7 @@ button .navbar-light .navbar-toggler,
 .navbar-light .navbar-nav .nav-link,
 .navbar-light .navbar-nav .active > .nav-link { 
     color: #FFF;
-    font-weight: bold;
+    font-size: 1.2rem;
 }
 
 .navbar-light .navbar-brand:hover,
@@ -36,6 +45,11 @@ button .navbar-light .navbar-toggler,
 }
 
 /** CAROUSEL **/
+.carousel {
+    font-family: 'Changa One', cursive;
+    font-weight: 400;
+}
+
 .carousel-caption {
     margin-bottom: 5rem;
 }
@@ -60,10 +74,8 @@ button .navbar-light .navbar-toggler,
 }
 
 #carrosel .carousel-item .carousel-caption h5 {
-    font-size: 2em;
-    font-weight: bold;
+    font-size: 2.5rem;
     font-style: italic;
-    color: tomato;
 }
 
 #carrosel .carousel-item .carousel-caption p {
@@ -72,6 +84,12 @@ button .navbar-light .navbar-toggler,
 
 #carrosel .carousel-indicators {
     width: 35%;
+}
+#carrosel .carousel-indicators li {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    outline: none;
 }
 
 /** PROMOCAO **/

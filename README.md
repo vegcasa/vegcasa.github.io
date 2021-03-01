@@ -18,6 +18,7 @@ Criação do site VEGCASA Oficial!
 -[x] instalação da estrutura de página
 
 ### HEADER E NAVBAR
+-[ ] Fonte da Logo e menu "Lato";
 -[x] Navbar Trasnparente com logotipo e links a direita
 -[ ] Navbar terá botão menu Hamburgue e seta de retorno
 -[ ] sidebar a esquerda com estilo OFF CANVAS
