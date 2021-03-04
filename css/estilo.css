@@ -19,6 +19,16 @@ body {
     padding: 0;
 }
 
+.bg-logo {
+    display: inline;
+}
+
+.bg-logo img {
+    color: #FFF;
+    /* background-color: tomato; */
+
+}
+
 .navbar-light .navbar-brand {
     color: #FFF;
 }

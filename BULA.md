@@ -38,3 +38,10 @@
     - News (Blog, Receitas)
     - Rodapé
     Todas as Seções estarão Detalhadas em tarefas no arquivo README.md e quando estiverem finalizadas, serão detalhadas aqui neste documento.
+
+
+
+
+Script MT Std Bold
+Monotype Script Std Bold
+Monotype Script Pro Bold
