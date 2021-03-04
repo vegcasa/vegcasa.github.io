@@ -164,3 +164,53 @@ button .navbar-light .navbar-toggler,
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     background-color: tomato;
 }
+
+/** GALERIA **/
+
+#offer {
+    height: 100vh;
+    display: block;
+    background-image: url('./../img/parallax-04.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+    transform: translate3d(0px, 3.20501px, 0px);
+}
+
+
+#galery .mini-galery {
+    width: 20%;
+    height: 60px;
+}
+
+#galery .wrapper-mgalery {
+    display: block;
+}
+
+#galery .mapsurl {
+    display: block;
+    background-color: #96928f;
+    max-height: 100%;
+    height: 200px;
+}
+
+
+
+footer {
+    display: block;
+    padding: 2rem 0;
+    background-color: #23201e;
+    color: #fff;
+}
+
+footer nav {
+    margin: 1rem 0;
+    padding: 2em 0;
+    border-bottom: 1px solid #fff;
+}
+
+footer .copyr {
+    padding: 1rem 0;
+    margin: 1rem 0;
+    text-align: center;
+}
